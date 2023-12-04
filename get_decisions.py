@@ -77,7 +77,7 @@ def extract_cases_from_page(response):
 
 def save_data_to_file(data, index):
     """Save case info to file"""
-    full_path = os.path.join(FOLDER, f"cases_page_{index}.json")
+    full_path = os.path.join(FOLDER, f"cases_page_{str(index).zfill(3)}.json")
     with open(full_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=2)
         file.write('\n')
