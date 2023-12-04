@@ -1,0 +1,779 @@
+[
+  {
+    "raw case info": "Gregory's Lessee v. Setter, 1 U.S. (1 Dall.) 193 (1786).",
+    "name": "Gregory's Lessee v. Setter",
+    "citation": "1 U.S. 193",
+    "year": "1786",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001193/usrep001193.pdf"
+  },
+  {
+    "raw case info": "Andrew's Lessee, v. Fleming, 2 U.S. (2 Dall.) 93 (1786).",
+    "name": "Andrew's Lessee, v. Fleming",
+    "citation": "2 U.S. 93",
+    "year": "1786",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002093/usrep002093.pdf"
+  },
+  {
+    "raw case info": "Pennington v. Scott, 2 U.S. (2 Dall.) 94 (1786).",
+    "name": "Pennington v. Scott",
+    "citation": "2 U.S. 94",
+    "year": "1786",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002094/usrep002094.pdf"
+  },
+  {
+    "raw case info": "Galbraith's Lessee v. Scott, 2 U.S. (2 Dall.) 95 (1786).",
+    "name": "Galbraith's Lessee v. Scott",
+    "citation": "2 U.S. 95",
+    "year": "1786",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002095/usrep002095.pdf"
+  },
+  {
+    "raw case info": "Lesher's Lessee v. Levan, 2 U.S. (2 Dall.) 96 (1786).",
+    "name": "Lesher's Lessee v. Levan",
+    "citation": "2 U.S. 96",
+    "year": "1786",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002096/usrep002096.pdf"
+  },
+  {
+    "raw case info": "Gerard v. La Coste, et al., 1 U.S. (1 Dall.) 194 (1787).",
+    "name": "Gerard v. La Coste, et al.",
+    "citation": "1 U.S. 194",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001194/usrep001194.pdf"
+  },
+  {
+    "raw case info": "Shoemaker v. Knorr, 1 U.S. (1 Dall.) 197 (1787).",
+    "name": "Shoemaker v. Knorr",
+    "citation": "1 U.S. 197",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001197/usrep001197.pdf"
+  },
+  {
+    "raw case info": "January v. Goodman, 1 U.S. (1 Dall.) 208 (1787).",
+    "name": "January v. Goodman",
+    "citation": "1 U.S. 208",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001208/usrep001208.pdf"
+  },
+  {
+    "raw case info": "Pollard v. Shaffer, 1 U.S. (1 Dall.) 210 (1787).",
+    "name": "Pollard v. Shaffer",
+    "citation": "1 U.S. 210",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001210/usrep001210.pdf"
+  },
+  {
+    "raw case info": "Musgrove, qui tam v. Gibbs, 1 U.S. (1 Dall.) 216 (1787).",
+    "name": "Musgrove, qui tam v. Gibbs",
+    "citation": "1 U.S. 216",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001216/usrep001216.pdf"
+  },
+  {
+    "raw case info": "Doane's Admin. vs. Penhallow, 1 U.S. (1 Dall.) 218 (1787).",
+    "name": "Doane's Admin. vs. Penhallow",
+    "citation": "1 U.S. 218",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001218/usrep001218.pdf"
+  },
+  {
+    "raw case info": "Eastwick v. Hugg, 1 U.S. (1 Dall.) 222 (1787).",
+    "name": "Eastwick v. Hugg",
+    "citation": "1 U.S. 222",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001222/usrep001222.pdf"
+  },
+  {
+    "raw case info": "Kuhn v. Primer, 1 U.S. (1 Dall.) 225 (1787).",
+    "name": "Kuhn v. Primer",
+    "citation": "1 U.S. 225",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001225/usrep001225.pdf"
+  },
+  {
+    "raw case info": "Busby v. Busby, 1 U.S. (1 Dall.) 226 (1787).",
+    "name": "Busby v. Busby",
+    "citation": "1 U.S. 226",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001226/usrep001226.pdf"
+  },
+  {
+    "raw case info": "Millar v. Hall, 1 U.S. (1 Dall.) 229 (1787).",
+    "name": "Millar v. Hall",
+    "citation": "1 U.S. 229",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001229/usrep001229.pdf"
+  },
+  {
+    "raw case info": "Lake, et al. v. Hulbert, et al., 2 U.S. (2 Dall.) 41 (1787).",
+    "name": "Lake, et al. v. Hulbert, et al.",
+    "citation": "2 U.S. 41",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002041/usrep002041.pdf"
+  },
+  {
+    "raw case info": "Cockshot's Lessee v. Hopkins, 2 U.S. (2 Dall.) 97 (1787).",
+    "name": "Cockshot's Lessee v. Hopkins",
+    "citation": "2 U.S. 97",
+    "year": "1787",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002097/usrep002097.pdf"
+  },
+  {
+    "raw case info": "McCurdy v. Potts, et al., 2 U.S. (2 Dall.) 98 (1788).",
+    "name": "McCurdy v. Potts, et al.",
+    "citation": "2 U.S. 98",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002098/usrep002098.pdf"
+  },
+  {
+    "raw case info": "McKimm, et al., Executors, v. Riddle, 2 U.S. (2 Dall.) 100 (1788).",
+    "name": "McKimm, et al., Executors, v. Riddle",
+    "citation": "2 U.S. 100",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002100/usrep002100.pdf"
+  },
+  {
+    "raw case info": "Respublica v. St. Clair, 2 U.S. (2 Dall.) 101 (1788).",
+    "name": "Respublica v. St. Clair",
+    "citation": "2 U.S. 101",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002101/usrep002101.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Gordon, 1 U.S. (1 Dall.) 233 (1788).",
+    "name": "Respublica v. Gordon",
+    "citation": "1 U.S. 233",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001233/usrep001233.pdf"
+  },
+  {
+    "raw case info": "Steinmetz, et al. v. Currey, 1 U.S. (1 Dall.) 234 (1788).",
+    "name": "Steinmetz, et al. v. Currey",
+    "citation": "1 U.S. 234",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001234/usrep001234.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Shaffer, 1 U.S. (1 Dall.) 236 (1788).",
+    "name": "Respublica v. Shaffer",
+    "citation": "1 U.S. 236",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001236/usrep001236.pdf"
+  },
+  {
+    "raw case info": "Poultney, et al. v. Ross, 1 U.S. (1 Dall.) 238 (1788).",
+    "name": "Poultney, et al. v. Ross",
+    "citation": "1 U.S. 238",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001238/usrep001238.pdf"
+  },
+  {
+    "raw case info": "Brown v. Sutter, 1 U.S. (1 Dall.) 239 (1788).",
+    "name": "Brown v. Sutter",
+    "citation": "1 U.S. 239",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001239/usrep001239.pdf"
+  },
+  {
+    "raw case info": "Newman v. Bradley, 1 U.S. (1 Dall.) 240 (1788).",
+    "name": "Newman v. Bradley",
+    "citation": "1 U.S. 240",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001240/usrep001240.pdf"
+  },
+  {
+    "raw case info": "Jackson, et al. v. Vanhorn, 1 U.S. (1 Dall.) 241 (1788).",
+    "name": "Jackson, et al. v. Vanhorn",
+    "citation": "1 U.S. 241",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001241/usrep001241.pdf"
+  },
+  {
+    "raw case info": "James, et al. v. Young, 1 U.S. (1 Dall.) 248 (1788).",
+    "name": "James, et al. v. Young",
+    "citation": "1 U.S. 248",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001248/usrep001248.pdf"
+  },
+  {
+    "raw case info": "Schlosser v. Lesher, 1 U.S. (1 Dall.) 251 (1788).",
+    "name": "Schlosser v. Lesher",
+    "citation": "1 U.S. 251",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001251/usrep001251.pdf"
+  },
+  {
+    "raw case info": "Robertson, et al. v. Vogle, 1 U.S. (1 Dall.) 252 (1788).",
+    "name": "Robertson, et al. v. Vogle",
+    "citation": "1 U.S. 252",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001252/usrep001252.pdf"
+  },
+  {
+    "raw case info": "Holingsworth v. Ogle et al., 1 U.S. (1 Dall.) 257 (1788).",
+    "name": "Holingsworth v. Ogle et al.",
+    "citation": "1 U.S. 257",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001257/usrep001257.pdf"
+  },
+  {
+    "raw case info": "Chapman v. Steinmetz, 1 U.S. (1 Dall.) 261 (1788).",
+    "name": "Chapman v. Steinmetz",
+    "citation": "1 U.S. 261",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001261/usrep001261.pdf"
+  },
+  {
+    "raw case info": "Walton v. Willis, 1 U.S. (1 Dall.) 265 (1788).",
+    "name": "Walton v. Willis",
+    "citation": "1 U.S. 265",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001265/usrep001265.pdf"
+  },
+  {
+    "raw case info": "Williams v. Geheogan, 1 U.S. (1 Dall.) 267 (1788).",
+    "name": "Williams v. Geheogan",
+    "citation": "1 U.S. 267",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001267/usrep001267.pdf"
+  },
+  {
+    "raw case info": "Guthrie v. White, 1 U.S. (1 Dall.) 268 (1788).",
+    "name": "Guthrie v. White",
+    "citation": "1 U.S. 268",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001268/usrep001268.pdf"
+  },
+  {
+    "raw case info": "Tillier v. Whitehead, 1 U.S. (1 Dall.) 269 (1788).",
+    "name": "Tillier v. Whitehead",
+    "citation": "1 U.S. 269",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001269/usrep001269.pdf"
+  },
+  {
+    "raw case info": "Steinmetz, et al. v. Currie, 1 U.S. (1 Dall.) 270 (1788).",
+    "name": "Steinmetz, et al. v. Currie",
+    "citation": "1 U.S. 270",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001270/usrep001270.pdf"
+  },
+  {
+    "raw case info": "Mifflin v. Birmingham, 1 U.S. (1 Dall.) 272 (1788).",
+    "name": "Mifflin v. Birmingham",
+    "citation": "1 U.S. 272",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001272/usrep001272.pdf"
+  },
+  {
+    "raw case info": "Lewis v. Maris, 1 U.S. (1 Dall.) 278 (1788).",
+    "name": "Lewis v. Maris",
+    "citation": "1 U.S. 278",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001278/usrep001278.pdf"
+  },
+  {
+    "raw case info": "Kirkbride, et al. v. Durden, 1 U.S. (1 Dall.) 288 (1788).",
+    "name": "Kirkbride, et al. v. Durden",
+    "citation": "1 U.S. 288",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001288/usrep001288.pdf"
+  },
+  {
+    "raw case info": "Tetter v. Rapesnyder, 1 U.S. (1 Dall.) 293 (1788).",
+    "name": "Tetter v. Rapesnyder",
+    "citation": "1 U.S. 293",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001293/usrep001293.pdf"
+  },
+  {
+    "raw case info": "Thompson v. Young, 1 U.S. (1 Dall.) 294 (1788).",
+    "name": "Thompson v. Young",
+    "citation": "1 U.S. 294",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001294/usrep001294.pdf"
+  },
+  {
+    "raw case info": "Morgan v. Eckart, et al., 1 U.S. (1 Dall.) 295 (1788).",
+    "name": "Morgan v. Eckart, et al.",
+    "citation": "1 U.S. 295",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001295/usrep001295.pdf"
+  },
+  {
+    "raw case info": "Bolton v. Martin, 1 U.S. (1 Dall.) 296 (1788).",
+    "name": "Bolton v. Martin",
+    "citation": "1 U.S. 296",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001296/usrep001296.pdf"
+  },
+  {
+    "raw case info": "Kunckle v. Wynick, 1 U.S. (1 Dall.) 305 (1788).",
+    "name": "Kunckle v. Wynick",
+    "citation": "1 U.S. 305",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001305/usrep001305.pdf"
+  },
+  {
+    "raw case info": "Wells, et al. v. Fox, 1 U.S. (1 Dall.) 308 (1788).",
+    "name": "Wells, et al. v. Fox",
+    "citation": "1 U.S. 308",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001308/usrep001308.pdf"
+  },
+  {
+    "raw case info": "Keeley v. Ord, et al., 1 U.S. (1 Dall.) 310 (1788).",
+    "name": "Keeley v. Ord, et al.",
+    "citation": "1 U.S. 310",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001310/usrep001310.pdf"
+  },
+  {
+    "raw case info": "Brown v. Edgar, 1 U.S. (1 Dall.) 311 (1788).",
+    "name": "Brown v. Edgar",
+    "citation": "1 U.S. 311",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001311/usrep001311.pdf"
+  },
+  {
+    "raw case info": "Shewell v. Wycoff, 1 U.S. (1 Dall.) 312 (1788).",
+    "name": "Shewell v. Wycoff",
+    "citation": "1 U.S. 312",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001312/usrep001312.pdf"
+  },
+  {
+    "raw case info": "Williams v. Craig, 1 U.S. (1 Dall.) 313 (1788).",
+    "name": "Williams v. Craig",
+    "citation": "1 U.S. 313",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001313/usrep001313.pdf"
+  },
+  {
+    "raw case info": "Plowman v. Abrams, 1 U.S. (1 Dall.) 316 (1788).",
+    "name": "Plowman v. Abrams",
+    "citation": "1 U.S. 316",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001316/usrep001316.pdf"
+  },
+  {
+    "raw case info": "Richette v. Stewart, et al., 1 U.S. (1 Dall.) 317 (1788).",
+    "name": "Richette v. Stewart, et al.",
+    "citation": "1 U.S. 317",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001317/usrep001317.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Oswald, 1 U.S. (1 Dall.) 319 (1788).",
+    "name": "Respublica v. Oswald",
+    "citation": "1 U.S. 319",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001319/usrep001319.pdf"
+  },
+  {
+    "raw case info": "Lesher v. Gehr, 1 U.S. (1 Dall.) 330 (1788).",
+    "name": "Lesher v. Gehr",
+    "citation": "1 U.S. 330",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001330/usrep001330.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Teischer, 1 U.S. (1 Dall.) 335 (1788).",
+    "name": "Respublica v. Teischer",
+    "citation": "1 U.S. 335",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001335/usrep001335.pdf"
+  },
+  {
+    "raw case info": "James v. Browne, 1 U.S. (1 Dall.) 339 (1788).",
+    "name": "James v. Browne",
+    "citation": "1 U.S. 339",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001339/usrep001339.pdf"
+  },
+  {
+    "raw case info": "Butcher v. Coats, 1 U.S. (1 Dall.) 340 (1788).",
+    "name": "Butcher v. Coats",
+    "citation": "1 U.S. 340",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001340/usrep001340.pdf"
+  },
+  {
+    "raw case info": "Murdock v. Will, 1 U.S. (1 Dall.) 341 (1788).",
+    "name": "Murdock v. Will",
+    "citation": "1 U.S. 341",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001341/usrep001341.pdf"
+  },
+  {
+    "raw case info": "McKegg v. Crawford, 1 U.S. (1 Dall.) 347 (1788).",
+    "name": "McKegg v. Crawford",
+    "citation": "1 U.S. 347",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001347/usrep001347.pdf"
+  },
+  {
+    "raw case info": "Penman, et al. v. Wayne, 1 U.S. (1 Dall.) 348 (1788).",
+    "name": "Penman, et al. v. Wayne",
+    "citation": "1 U.S. 348",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001348/usrep001348.pdf"
+  },
+  {
+    "raw case info": "Abbot v. Pinchin, 1 U.S. (1 Dall.) 349 (1788).",
+    "name": "Abbot v. Pinchin",
+    "citation": "1 U.S. 349",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001349/usrep001349.pdf"
+  },
+  {
+    "raw case info": "Walton v. Willis, 1 U.S. (1 Dall.) 351 (1788).",
+    "name": "Walton v. Willis",
+    "citation": "1 U.S. 351",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001351/usrep001351.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Campbell, 1 U.S. (1 Dall.) 354 (1788).",
+    "name": "Respublica v. Campbell",
+    "citation": "1 U.S. 354",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001354/usrep001354.pdf"
+  },
+  {
+    "raw case info": "Hart v. James, 1 U.S. (1 Dall.) 355 (1788).",
+    "name": "Hart v. James",
+    "citation": "1 U.S. 355",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001355/usrep001355.pdf"
+  },
+  {
+    "raw case info": "Starret's Case, 1 U.S. (1 Dall.) 356 (1788).",
+    "name": "Starret's Case",
+    "citation": "1 U.S. 356",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001356/usrep001356.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Sparhawk, 1 U.S. (1 Dall.) 357 (1788).",
+    "name": "Respublica v. Sparhawk",
+    "citation": "1 U.S. 357",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001357/usrep001357.pdf"
+  },
+  {
+    "raw case info": "Kunckle v. Kunckle, 1 U.S. (1 Dall.) 364 (1788).",
+    "name": "Kunckle v. Kunckle",
+    "citation": "1 U.S. 364",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001364/usrep001364.pdf"
+  },
+  {
+    "raw case info": "Gorgerat v. McCarty, 1 U.S. (1 Dall.) 366 (1788).",
+    "name": "Gorgerat v. McCarty",
+    "citation": "1 U.S. 366",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001366/usrep001366.pdf"
+  },
+  {
+    "raw case info": "Waters v. Millar, 1 U.S. (1 Dall.) 369 (1788).",
+    "name": "Waters v. Millar",
+    "citation": "1 U.S. 369",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001369/usrep001369.pdf"
+  },
+  {
+    "raw case info": "Gibbs v. Gibbs, 1 U.S. (1 Dall.) 371 (1788).",
+    "name": "Gibbs v. Gibbs",
+    "citation": "1 U.S. 371",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001371/usrep001371.pdf"
+  },
+  {
+    "raw case info": "McClenachan v. McCarty, 1 U.S. (1 Dall.) 375 (1788).",
+    "name": "McClenachan v. McCarty",
+    "citation": "1 U.S. 375",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001375/usrep001375.pdf"
+  },
+  {
+    "raw case info": "Penrose v. Hart, 1 U.S. (1 Dall.) 378 (1788).",
+    "name": "Penrose v. Hart",
+    "citation": "1 U.S. 378",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001378/usrep001378.pdf"
+  },
+  {
+    "raw case info": "Oniel v. Chew, 1 U.S. (1 Dall.) 379 (1788).",
+    "name": "Oniel v. Chew",
+    "citation": "1 U.S. 379",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001379/usrep001379.pdf"
+  },
+  {
+    "raw case info": "Pleasants v. Meng, et al., 1 U.S. (1 Dall.) 380 (1788).",
+    "name": "Pleasants v. Meng, et al.",
+    "citation": "1 U.S. 380",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001380/usrep001380.pdf"
+  },
+  {
+    "raw case info": "Farrel v. McClea, 1 U.S. (1 Dall.) 392 (1788).",
+    "name": "Farrel v. McClea",
+    "citation": "1 U.S. 392",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001392/usrep001392.pdf"
+  },
+  {
+    "raw case info": "Camp v. Lockwood, 1 U.S. (1 Dall.) 393 (1788).",
+    "name": "Camp v. Lockwood",
+    "citation": "1 U.S. 393",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001393/usrep001393.pdf"
+  },
+  {
+    "raw case info": "Pinchin v. Fry, 1 U.S. (1 Dall.) 405 (1788).",
+    "name": "Pinchin v. Fry",
+    "citation": "1 U.S. 405",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001405/usrep001405.pdf"
+  },
+  {
+    "raw case info": "Boinod v. Pelosi, 2 U.S. (2 Dall.) 43 (1788).",
+    "name": "Boinod v. Pelosi",
+    "citation": "2 U.S. 43",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002043/usrep002043.pdf"
+  },
+  {
+    "raw case info": "W.B. v. Latimer, 4 U.S. (4 Dall.) i (1788).",
+    "name": "W.B. v. Latimer",
+    "citation": "4 U.S. i",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep004/usrep00400i/usrep00400i.pdf"
+  },
+  {
+    "raw case info": "Robinson v. The Lessee of Adams, 4 U.S. (4 Dall.) xii (1788).",
+    "name": "Robinson v. The Lessee of Adams",
+    "citation": "4 U.S. xii",
+    "year": "1788",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep004/usrep004xii/usrep004xii.pdf"
+  },
+  {
+    "raw case info": "Hoare v. Allen, 2 U.S. (2 Dall.) 102 (1789).",
+    "name": "Hoare v. Allen",
+    "citation": "2 U.S. 102",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002102/usrep002102.pdf"
+  },
+  {
+    "raw case info": "Calvert v. Pitt, 1 U.S. (1 Dall.) 406 (1789).",
+    "name": "Calvert v. Pitt",
+    "citation": "1 U.S. 406",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001406/usrep001406.pdf"
+  },
+  {
+    "raw case info": "Steele v. Steele, 1 U.S. (1 Dall.) 409 (1789).",
+    "name": "Steele v. Steele",
+    "citation": "1 U.S. 409",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001409/usrep001409.pdf"
+  },
+  {
+    "raw case info": "Smith v. Davids, 1 U.S. (1 Dall.) 410 (1789).",
+    "name": "Smith v. Davids",
+    "citation": "1 U.S. 410",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001410/usrep001410.pdf"
+  },
+  {
+    "raw case info": "Schlosser v. Lesher, 1 U.S. (1 Dall.) 411 (1789).",
+    "name": "Schlosser v. Lesher",
+    "citation": "1 U.S. 411",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001411/usrep001411.pdf"
+  },
+  {
+    "raw case info": "Kennedy v. Nedrow, et ux., 1 U.S. (1 Dall.) 415 (1789).",
+    "name": "Kennedy v. Nedrow, et ux.",
+    "citation": "1 U.S. 415",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001415/usrep001415.pdf"
+  },
+  {
+    "raw case info": "Zantzinger v. Pole, 1 U.S. (1 Dall.) 419 (1789).",
+    "name": "Zantzinger v. Pole",
+    "citation": "1 U.S. 419",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001419/usrep001419.pdf"
+  },
+  {
+    "raw case info": "Hamilton's Exor. v. Callender's Exors, 1 U.S. (1 Dall.) 420 (1789).",
+    "name": "Hamilton's Exor. v. Callender's Exors",
+    "citation": "1 U.S. 420",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001420/usrep001420.pdf"
+  },
+  {
+    "raw case info": "De Haven v. Henderson, 1 U.S. (1 Dall.) 424 (1789).",
+    "name": "De Haven v. Henderson",
+    "citation": "1 U.S. 424",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001424/usrep001424.pdf"
+  },
+  {
+    "raw case info": "D'Utricht v. Melchor, 1 U.S. (1 Dall.) 428 (1789).",
+    "name": "D'Utricht v. Melchor",
+    "citation": "1 U.S. 428",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001428/usrep001428.pdf"
+  },
+  {
+    "raw case info": "Oxley, et al. v. Oldden, 1 U.S. (1 Dall.) 430 (1789).",
+    "name": "Oxley, et al. v. Oldden",
+    "citation": "1 U.S. 430",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001430/usrep001430.pdf"
+  },
+  {
+    "raw case info": "Quesnel v. Mussi, 1 U.S. (1 Dall.) 436 (1789).",
+    "name": "Quesnel v. Mussi",
+    "citation": "1 U.S. 436",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001436/usrep001436.pdf"
+  },
+  {
+    "raw case info": "Holmes v. Comegys, 1 U.S. (1 Dall.) 439 (1789).",
+    "name": "Holmes v. Comegys",
+    "citation": "1 U.S. 439",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001439/usrep001439.pdf"
+  },
+  {
+    "raw case info": "Adams v. La Comb, 1 U.S. (1 Dall.) 440 (1789).",
+    "name": "Adams v. La Comb",
+    "citation": "1 U.S. 440",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001440/usrep001440.pdf"
+  },
+  {
+    "raw case info": "McCullough v. Houston, 1 U.S. (1 Dall.) 441 (1789).",
+    "name": "McCullough v. Houston",
+    "citation": "1 U.S. 441",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001441/usrep001441.pdf"
+  },
+  {
+    "raw case info": "Cummings v. Lynn, 1 U.S. (1 Dall.) 444 (1789).",
+    "name": "Cummings v. Lynn",
+    "citation": "1 U.S. 444",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001444/usrep001444.pdf"
+  },
+  {
+    "raw case info": "Quesnel v. Mussi, 1 U.S. (1 Dall.) 449 (1789).",
+    "name": "Quesnel v. Mussi",
+    "citation": "1 U.S. 449",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001449/usrep001449.pdf"
+  },
+  {
+    "raw case info": "Hooton v. Will, 1 U.S. (1 Dall.) 450 (1789).",
+    "name": "Hooton v. Will",
+    "citation": "1 U.S. 450",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001450/usrep001450.pdf"
+  },
+  {
+    "raw case info": "Primer v. Kuhn, 1 U.S. (1 Dall.) 452 (1789).",
+    "name": "Primer v. Kuhn",
+    "citation": "1 U.S. 452",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001452/usrep001452.pdf"
+  },
+  {
+    "raw case info": "Graeme v. Harris, 1 U.S. (1 Dall.) 456 (1789).",
+    "name": "Graeme v. Harris",
+    "citation": "1 U.S. 456",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001456/usrep001456.pdf"
+  },
+  {
+    "raw case info": "Bunner v. Neil, 1 U.S. (1 Dall.) 457 (1789).",
+    "name": "Bunner v. Neil",
+    "citation": "1 U.S. 457",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001457/usrep001457.pdf"
+  },
+  {
+    "raw case info": "Thompson v. Musser, 1 U.S. (1 Dall.) 458 (1789).",
+    "name": "Thompson v. Musser",
+    "citation": "1 U.S. 458",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001458/usrep001458.pdf"
+  },
+  {
+    "raw case info": "Respublica v. Negro Betsey, 1 U.S. (1 Dall.) 469 (1789).",
+    "name": "Respublica v. Negro Betsey",
+    "citation": "1 U.S. 469",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001469/usrep001469.pdf"
+  },
+  {
+    "raw case info": "Lyle v. Foreman, 1 U.S. (1 Dall.) 480 (1789).",
+    "name": "Lyle v. Foreman",
+    "citation": "1 U.S. 480",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001480/usrep001480.pdf"
+  },
+  {
+    "raw case info": "Graff v. Smith's Admors., 1 U.S. (1 Dall.) 481 (1789).",
+    "name": "Graff v. Smith's Admors.",
+    "citation": "1 U.S. 481",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001481/usrep001481.pdf"
+  },
+  {
+    "raw case info": "Pringle v. McClenacman, 1 U.S. (1 Dall.) 486 (1789).",
+    "name": "Pringle v. McClenacman",
+    "citation": "1 U.S. 486",
+    "year": "1789",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep001/usrep001486/usrep001486.pdf"
+  },
+  {
+    "raw case info": "Appointments and Orders, 2 U.S. (2 Dall.) 399 (1790).",
+    "name": "Appointments and Orders",
+    "citation": "2 U.S. 399",
+    "year": "1790",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002399/usrep002399.pdf"
+  },
+  {
+    "raw case info": "Appointments and Orders, 2 U.S. (2 Dall.) 400 (1790).",
+    "name": "Appointments and Orders",
+    "citation": "2 U.S. 400",
+    "year": "1790",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002400/usrep002400.pdf"
+  },
+  {
+    "raw case info": "Geyer's Lessee v. Irwin, 4 U.S. (4 Dall.) 107 (1790).",
+    "name": "Geyer's Lessee v. Irwin",
+    "citation": "4 U.S. 107",
+    "year": "1790",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep004/usrep004107/usrep004107.pdf"
+  },
+  {
+    "raw case info": "Carson v. Hood's Executors, 4 U.S. (4 Dall.) 108 (1790).",
+    "name": "Carson v. Hood's Executors",
+    "citation": "4 U.S. 108",
+    "year": "1790",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep004/usrep004108/usrep004108.pdf"
+  },
+  {
+    "raw case info": "Todd v. Thompson, 2 U.S. (2 Dall.) 105 (1790).",
+    "name": "Todd v. Thompson",
+    "citation": "2 U.S. 105",
+    "year": "1790",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002105/usrep002105.pdf"
+  }
+]
